@@ -69,9 +69,9 @@ Main Menu:
     Choose:
 
 Insert Employee:
-    Enter name: John Doe
+    Enter name: indra
     Enter gender (Male/Female/Other): Male
-    Enter email: john@example.com
+    Enter email: indra@example.com
     Enter age: 30
     Enter location_id: 1
     Enter designation_id: 1
@@ -83,7 +83,7 @@ List Employees:
 
 Update Employee:
     Enter employee_id to update: 1
-    Enter new email (leave blank to keep): john.doe@company.com
+    Enter new email (leave blank to keep): indrasena@.com
     Enter new age (0 to skip): 32
     Employee updated successfully
 
