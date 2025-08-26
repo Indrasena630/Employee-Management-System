@@ -36,8 +36,8 @@ This will:
 ----------------
 In EmployeeManagementApp.java, update your DB credentials:
 
-    private static final String DB_USER = "root";      // Your MySQL username
-    private static final String DB_PASS = "password";  // Your MySQL password
+    private static final String DB_USER = "root";     
+    private static final String DB_PASS = "password";  
 
 Also make sure DB URL has:
 
@@ -79,7 +79,7 @@ Insert Employee:
 
 List Employees:
     --- Employees ---
-    [1] John Doe | Male | john@example.com | Age: 30 | Hyderabad | Software Engineer
+    [1] Indra | Male | indra@example.com | Age: 30 | Hyderabad | Software Engineer
 
 Update Employee:
     Enter employee_id to update: 1
